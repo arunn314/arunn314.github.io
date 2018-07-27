@@ -8,9 +8,9 @@
     "website": "https://arunn314.github.io",
     "summary": "Passionate about applications of Deep Learning in NLP, Vision.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "San Francisco",
+      "address": "861 Spirit Walk,",
+      "postalCode": "95035",
+      "city": "Milpitas",
       "countryCode": "USA",
       "region": "California"
     },
@@ -74,12 +74,23 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "University of Texas, Austin, TX",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2010-08-02",
+      "endDate": "2012-05-19",
+      "gpa": "3.6",
+      "courses": [ "Natural Language Processing", "Machine Learning",
+                  "Linear Algebra", "Distributed Systems", "Parallel Algorithms
+      ]
+    },
+    {
+      "institution": "College of Engineering, Guindy, Anna University, India",
+      "area": "Computer Science",
+      "studyType": "B.E.",
+      "startDate": "2006-08-02",
+      "endDate": "2010-05-19",
+      "gpa": "8.68/10",
       "courses": [
       ]
     }
@@ -139,16 +150,30 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      Winner	of		“Code	For	India	Hackathon	2014”	at	Google	under	“Most	Technically	challenging”	category.	
+      
+      "title": "Winner",
+      "date": "2014",
+      "awarder": "Code	For	India	Hackathon at	Google, CA under	“Most	Technically	challenging”	category",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "15th",
+      "date": "2010",
+      "awarder": "place	in	ACM	ICPC,	SCUSA	Regionals",
+      "summary": ""
+    },
+    {
+      "title": "16th",
+      "date": "2009",
+      "awarder": "place	in	ACM	ICPC,	Asia	Regionals",
+      "summary": ""
+    },
+    {
+      "title": "25th",
+      "date": "2008",
+      "awarder": "place	in	ACM	ICPC,	Asia	Regionals",
+      "summary": ""
     }
   ],
   "references": [
