@@ -1,7 +1,8 @@
-# Technical Portfolio
+## About Me:
+### Interests
+ML, NLP, Deep Learning, Home Automation, Intelligent Assistants
 
-This repository hosts a technical portfolio built using [TechFolio](http://techfolios.github.io). 
-
-See the quick start guide for instructions on how to tailor the template to your own needs.
-
+### Education
+MS Computer Science, University of Texas, Austin, 2012.  
+BE Computer Science, College of Engineering, Guindy, Anna University, 2010.
 
