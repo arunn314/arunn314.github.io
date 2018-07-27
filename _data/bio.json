@@ -81,7 +81,7 @@
       "endDate": "2012-05-19",
       "gpa": "3.6",
       "courses": [ "Natural Language Processing", "Machine Learning",
-                  "Linear Algebra", "Distributed Systems", "Parallel Algorithms
+                  "Linear Algebra", "Distributed Systems", "Parallel Algorithms"
       ]
     },
     {
@@ -150,8 +150,6 @@
   ],
   "awards": [
     {
-      Winner	of		“Code	For	India	Hackathon	2014”	at	Google	under	“Most	Technically	challenging”	category.	
-      
       "title": "Winner",
       "date": "2014",
       "awarder": "Code	For	India	Hackathon at	Google, CA under	“Most	Technically	challenging”	category",
