@@ -6,39 +6,21 @@
 // Here are some common customizations for colors
 
 // Customize the background color
-$uh-green-official: #2F4F4F; // https://www.hawaii.edu/offices/eaur/graphicsguide.html
-$uh-green: lighten($uh-green-official, 5%);
-$uh-green-light: lighten($uh-green-official, 10%);
 
 body {
   // background-color: #f2f2f2;;
-  // background-color: lightsteelblue
+  background-color: #585858;
 }
 
 // Customize the menubar color
-// .ui.menu {
-//   // background: $background-start;
-//   background: #2F4F4F;
-//   color: white
-// }
-
 .ui.menu {
-  background: $uh-green-light;
+  // background: $background-start;
+  //#2F4F4F
+  background: #0489B1;
 
-  a.item {
-    color: white;
-
-    &:hover {
-      color: white;
-      background-color: $uh-green;
-    }
-  }
-
-  a.active.item, a.active.item:hover {
-    color: white;
-    background-color: $uh-green;
-  }
 }
+
+
 
 
 // Customize the home page icon colors
@@ -47,12 +29,3 @@ body {
   color: darken(lightsteelblue, 20%);
 }
 
-.ui.basic.button, .ui.basic.buttons .button {
-  background: $uh-green-light !important;
-  color: white !important;
-
-  &:hover {
-    background: $uh-green !important;
-    color: white !important;
-  }
-}
