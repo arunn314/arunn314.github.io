@@ -53,22 +53,29 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Python Frameworks",
       "level": "",
       "keywords": [
-        "python", "keras", "tensorflow",
-        "pandas",	"numpy",	"sklearn",	"nltk"
+        "keras", "tensorflow",
+        "pandas",	"numpy",	"sklearn",	"nltk", "spacy", "opencv"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "python",
+        "C++"
+      ]
+    },
+    {
+       "name": "Data Frameworks",
+      "level": "",
+      "keywords": [
+        "kafka",
+        "Elasticsearch",
+        "Mysql",
+        "Hive"
       ]
     }
   ],
