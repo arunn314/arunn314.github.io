@@ -1,39 +1,34 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Arun Nedunchezhian",
+    "label": "ML Engineer",
+    "picture": "https://techfolios.github.io/template/images/profile_pic.jpg",
+    "email": "arunn3.14@gmail.com",
+    "phone": "512-925-9084",
+    "website": "https://arunn314.github.io",
+    "summary": "Passionate about applications of Deep Learning in NLP, Vision.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "",
+      "city": "San Francisco",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "California"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "arunn314",
+        "url": "http://github.com/arunn314"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "arun-nedunchezhian-8346683b",
+        "url": "http://linkedin.com/in/arun-nedunchezhian-8346683b"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "arunn314",
+        "url": "http://twitter.com/arunn314"
       }
     ]
   },
