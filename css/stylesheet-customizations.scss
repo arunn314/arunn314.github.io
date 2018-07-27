@@ -16,11 +16,30 @@ body {
 }
 
 // Customize the menubar color
+// .ui.menu {
+//   // background: $background-start;
+//   background: #2F4F4F;
+//   color: white
+// }
+
 .ui.menu {
-  // background: $background-start;
-  background: #2F4F4F;
-  color: white
+  background: $uh-green-light;
+
+  a.item {
+    color: white;
+
+    &:hover {
+      color: white;
+      background-color: $uh-green;
+    }
+  }
+
+  a.active.item, a.active.item:hover {
+    color: white;
+    background-color: $uh-green;
+  }
 }
+
 
 // Customize the home page icon colors
 .icon-color {
