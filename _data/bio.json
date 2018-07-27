@@ -34,19 +34,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "ML, Deep Learning,",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "NLP",
+        "Computer Vision"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Home Automation",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Intelligent Assistants",
       "keywords": [
       ]
     }
@@ -56,12 +56,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "python", "keras", "tensorflow",
+        "pandas",	"numpy",	"sklearn",	"nltk"
       ]
     },
     {
