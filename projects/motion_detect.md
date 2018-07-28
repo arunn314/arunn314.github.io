@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/fedex.jpg
+image: images/fedex.png
 title: Person Detection using Deep Learning
 permalink: projects/person_detect
 # All dates must be YYYY-MM-DD format!
