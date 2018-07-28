@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gmapsvoicekit.png
+image: images/voicekit.png
 title: Google Voicekit Interface for Chatbot
 permalink: projects/speech_interface
 
