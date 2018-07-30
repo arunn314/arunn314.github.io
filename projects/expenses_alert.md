@@ -14,4 +14,4 @@ summary: Raspberry Pi based chatbot to visualization of expenses by category per
 ---
 
 <img class="ui medium right floated rounded image" src="../images/expenses_pie.png"><br/>
-<img class="ui center right floated rounded image" src="../images/expenses_alert.png"><br/>
+<img class="ui medium center floated rounded image" src="../images/expenses_alert.png"><br/>
