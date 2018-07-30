@@ -16,4 +16,5 @@ A Raspberry Pi Zero based security camera($50) installed near front door.
 Takes picture of motion and uploads to Google Drive.
 Send Alerts to FB messenger.
 
-<img class="ui medium right floated rounded image" src="../images/clarifai.png">
+<img class="ui medium right floated rounded image" src="../images/clarifai.png"><br/>
+<img class="ui medium center floated rounded image" src="../images/person_alert.png"><br/>
