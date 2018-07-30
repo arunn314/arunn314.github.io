@@ -24,5 +24,5 @@ summary: Adding weather, wikipedia, google maps, gmail, stocks, smart bulb featu
   <img class="ui image" src="../images/gmail.png">
   <img class="ui image" src="../images/wiki.png">
   <img class="ui image" src="../images/weather.jpg">
-  <img class="ui image" src="../images/stock.jpg">
+  <img class="ui image" src="../images/stock.png">
 </div>
