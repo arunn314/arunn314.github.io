@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/weather.jpg
 title: Daily Weather updates
+published: false
 permalink: projects/weather_alert
 
 date: 2017-07-14
