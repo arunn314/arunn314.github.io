@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/wiki.png
 title: Ask Wikipedia
+published: false
 permalink: projects/wiki_alert
 
 date: 2017-03-11
