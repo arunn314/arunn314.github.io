@@ -28,7 +28,7 @@ summary: Adding weather, wikipedia, google maps, gmail, stocks, smart bulb featu
 </div>
 
 ### Smart Plug Controller
-Raspberry Pi based chatbot to switch on/off plug at a desired time.
+Raspberry Pi based chatbot to switch on/off plug at a desired time.\
 [code](https://github.com/arunn314/smartybot/blob/master/plug_handler.py)
 
 ### Daily Weather updates
