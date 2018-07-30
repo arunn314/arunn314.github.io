@@ -29,6 +29,7 @@ summary: Adding weather, wikipedia, google maps, gmail, stocks, smart bulb featu
 
 ### Smart Plug Controller
 Raspberry Pi based chatbot to switch on/off plug at a desired time.
+[code](https://github.com/arunn314/smartybot/blob/master/plug_handler.py)
 
 ### Daily Weather updates
 Raspberry Pi based chatbot to send daily weather updates to FB Messenger. The user can ask weather at any location in the world.
