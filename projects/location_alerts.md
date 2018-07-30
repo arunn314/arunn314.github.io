@@ -12,3 +12,4 @@ labels:
 
 summary: Raspberry Pi based chatbot to track locations of user and send alerts FB Messenger
 ---
+<img class="ui medium center floated rounded image" src="../images/location_alert.png"><br/>
