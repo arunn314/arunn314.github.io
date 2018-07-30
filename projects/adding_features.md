@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/wiki.jpg
+image: images/wiki.png
 title: Additional Features
 permalink: projects/adding_features
 
