@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/bulb.jpg
 title: Smart Plug Controller
+published: false
 permalink: projects/bulb_controller
 
 date: 2017-07-14
