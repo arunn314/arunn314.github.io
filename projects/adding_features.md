@@ -10,14 +10,15 @@ labels:
   - pyHS100
   - Google Maps API
   - Wikipedia API
+  - OpenWeatherMap API
   - Raspberry Pi
 
-summary: Raspberry Pi based chatbot to switch on/off plug at a desired time.
+summary: Adding weather, wikipedia, google maps, smart bulb features to Raspberry Pi Chat bot.
 ---
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/bulb.jpg">
   <img class="ui image" src="../images/gmaps.png">
   <img class="ui image" src="../images/wiki.png">
-  <img class="ui image" src="../images/bulb.jpg">
+  <img class="ui image" src="../images/weather.jpg">
 </div>
