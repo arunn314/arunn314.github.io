@@ -42,7 +42,7 @@ Raspberry Pi based chatbot to send directions to/from office when leaving to/fro
 When I leave to office, every morning I need to check Google Maps to see which route is the fastest based on traffic information. So, I set up a daily alert to send me the fastest route to office in the morning and route from office to home in the evening. This feature saves my time to check traffic everyday.
 
 I can also ask chatbot like "What is the fastest route to (destination) ?" and it would respond me with a similar message and duration.
-<img class="ui medium center floated rounded image" src="../images/traffic_alert.png"><br/>
+<img class="ui medium center rounded image" src="../images/traffic_alert.png"><br/>
 
 [code](https://github.com/arunn314/smartybot/blob/master/gmaps_handler.py)
 
@@ -63,7 +63,7 @@ Chatbot sends daily alert about new emails every morning.<br/>
 It would be nice if the chatbot could check my email account and notify if there are any new emails today. My chatbot does this every morning and sends me a notification about any new unread email.<br/>
 I can also ask if there are any emails from specific sender.
 For example, I can ask "Did I get any email from Fedex?"<br/>
-<img class="ui medium center floated rounded image" src="../images/email_alert.png"><br/>
+<img class="ui medium center rounded image" src="../images/email_alert.png"><br/>
 [code](https://github.com/arunn314/smartybot/blob/master/gmail_handler.py)
 
 
