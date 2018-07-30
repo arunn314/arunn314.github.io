@@ -2,6 +2,7 @@
 layout: project
 type: project
 image: images/gmaps.png
+published: false
 title: Google Maps Directions alert
 permalink: projects/gmaps_alert
 
