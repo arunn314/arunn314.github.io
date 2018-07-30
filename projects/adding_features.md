@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/bulb.jpg
-title: Smart Plug Controller
-permalink: projects/bulb_controller
+image: images/wiki.jpg
+title: Additional Features
+permalink: projects/adding_features
 
 date: 2017-07-14
 labels:
