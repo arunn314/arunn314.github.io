@@ -13,4 +13,5 @@ labels:
 summary: Raspberry Pi based chatbot to visualization of expenses by category per week/month.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/expenses_pie.png">
+<img class="ui medium right floated rounded image" src="../images/expenses_pie.png"><br/>
+<img class="ui center right floated rounded image" src="../images/expenses_alert.png"><br/>
