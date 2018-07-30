@@ -32,7 +32,7 @@ Raspberry Pi based chatbot to switch on/off plug at a desired time.<br/>
 Sometimes, when we go out on a vacation. It's better to have lights automatically switched on at nights so that it gives an impression that there are people inside the home. I have heard stories about theft in neighbourhood. So, I thought this would be a good feature to have. I used TP-Link smart plug for this and connected a lamp to it. I wrote a cron job to switch on the plug at 8pm and switch it off at 11pm. The chatbot sends me a notification when the light is on/off.
 
 I can also issue switch on/off commands to chatbot at any time as I wish.<br/>
-<p><img class="ui medium center floated rounded image" src="../images/plug_alert.png"></p>
+<p><img class="ui medium center rounded image" src="../images/plug_alert.png"></p>
 
 [code](https://github.com/arunn314/smartybot/blob/master/plug_handler.py)  
 
