@@ -19,5 +19,5 @@ Send Alerts to FB messenger.
 <img class="ui medium right floated rounded image" src="../images/clarifai.png"><br/>
 <img class="ui medium center floated rounded image" src="../images/person_alert.png"><br/>
 
-###References:<br/>
-[(https://hackernoon.com/raspberrypi-home-surveillance-with-only-150-lines-of-python-code-2701bd0373c9)](https://hackernoon.com/raspberrypi-home-surveillance-with-only-150-lines-of-python-code-2701bd0373c9)
+### References:<br/>
+1. [(https://hackernoon.com/raspberrypi-home-surveillance-with-only-150-lines-of-python-code-2701bd0373c9)](https://hackernoon.com/raspberrypi-home-surveillance-with-only-150-lines-of-python-code-2701bd0373c9)
