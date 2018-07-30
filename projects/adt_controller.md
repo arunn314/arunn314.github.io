@@ -12,3 +12,5 @@ labels:
 
 summary: Raspberry Pi based chatbot to arm/disarm home security.
 ---
+
+<img class="ui medium right floated rounded image" src="../images/adt_status.png">
