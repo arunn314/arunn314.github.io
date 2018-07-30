@@ -29,7 +29,7 @@ summary: Adding weather, wikipedia, google maps, gmail, stocks, smart bulb featu
 
 ### Smart Plug Controller
 Raspberry Pi based chatbot to switch on/off plug at a desired time.<br/>
-Sometimes, when we go out on a vacation. It's better to have lights automatically switched on at nights so that it gives an impression that there are people inside the home. I have heard stories about theft in neighbourhood. So I thought this would be a good feature to have. I used TP-Link smart plug for this and connected a lamp to it. I wrote a cron job to switch on the plug at 8pm and switch it off at 11pm. The chatbots sends me a notification when the light is on/off.
+Sometimes, when we go out on a vacation. It's better to have lights automatically switched on at nights so that it gives an impression that there are people inside the home. I have heard stories about theft in neighbourhood. So, I thought this would be a good feature to have. I used TP-Link smart plug for this and connected a lamp to it. I wrote a cron job to switch on the plug at 8pm and switch it off at 11pm. The chatbot sends me a notification when the light is on/off.
 
 I can also issue switch on/off commands to chatbot at any time as I wish.<br/>
 <img class="ui medium center floated rounded image" src="../images/plug_alert.png">
@@ -39,9 +39,9 @@ I can also issue switch on/off commands to chatbot at any time as I wish.<br/>
 
 ### Google Maps Directions alert
 Raspberry Pi based chatbot to send directions to/from office when leaving to/from office. This is very useful when there are multiple routes to the destination. The bot alerts the fastest route to destination.<br/>
-When I leave to office, every morning I need to check Google Maps to see which route is the fastest based on traffic information. So I set up a daily alert to send me the fastest route to office in the morning and route from office to home in the evening. This feature saves my time to check traffic everyday.
+When I leave to office, every morning I need to check Google Maps to see which route is the fastest based on traffic information. So, I set up a daily alert to send me the fastest route to office in the morning and route from office to home in the evening. This feature saves my time to check traffic everyday.
 
-I can also ask chatbot like "What is the fastest route to <destination>?" and it would respond me with a similar message and duration.
+I can also ask chatbot like "What is the fastest route to (destination) ?" and it would respond me with a similar message and duration.
 <img class="ui medium center floated rounded image" src="../images/traffic_alert.png"><br/>
 
 [code](https://github.com/arunn314/smartybot/blob/master/gmaps_handler.py)
