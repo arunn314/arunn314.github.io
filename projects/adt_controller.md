@@ -19,3 +19,5 @@ I went through the website and thought I would use Selenium to simulate arm/disa
 
 I have also added a feature to put the status automatically to arm stay when me and my wife are out of out home. I track the latitude and logitude of our location and if we forget to arm when we leave, it automatically arms the security system and sends us a notification. This feature makes the bot smart to know what to do based on our location. This has been very useful to us.<br/>
 <p align="center"><img class="ui medium center floated rounded image" src="../images/security_alert.png"><br/></p>
+
+[ADT Handler code](https://github.com/arunn314/smartybot/blob/master/adt_handler.py)
