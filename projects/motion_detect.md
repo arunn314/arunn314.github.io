@@ -11,7 +11,7 @@ labels:
   - Raspberry Pi
   - Google Drive API
   - Clarifai Image Classification API
-  - Image Classification
+
 summary: Raspberry Pi based Security Cam to detect motion and upload images to Google Drive
 ---
 A Raspberry Pi Zero based security camera($50) installed near front door.
