@@ -70,4 +70,14 @@ For example, I can ask "Did I get any email from Fedex?"<br/>
 Ask daily stock value of popular US companies.  
 I can ask chatbot to know about stock values of popular US companies.
 I can just ask "what is the stock price of Apple ?"<br/>
+```python
+STOCK_SYMBOLS = {
+    'apple': 'AAPL',
+    'google': 'GOOG',
+    'facebook': 'FB',
+    'snap': 'SNAP',
+    'amazon': 'AMZN',
+    'microsoft': 'MSFT'
+}
+```
 [code](https://github.com/arunn314/smartybot/blob/master/stock_handler.py)
