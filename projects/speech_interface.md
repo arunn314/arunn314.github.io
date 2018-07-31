@@ -22,4 +22,5 @@ After that, I used Google Cloud Speech Recognition API to convert speech to text
 
 Google has done a great work in speech recognition and the accuracy is pretty good. FB Messenger is no longer neccessary for communicating to Pi. I can talk to it directly from Google VoiceKit by pressing a button.
 
+[AIY Google Voice Kit](https://aiyprojects.withgoogle.com/voice/)<br/>
 [Google Speech to Text API](https://cloud.google.com/speech-to-text/)<br/>
