@@ -8,6 +8,8 @@ permalink: projects/location_alert
 date: 2017-06-19
 labels:
   - geopy
+  - selenium
+  - beautifulsoup
   - Raspberry Pi
 
 summary: Raspberry Pi based chatbot to track locations of user and send alerts FB Messenger
