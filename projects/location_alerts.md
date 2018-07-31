@@ -20,5 +20,5 @@ I also defined landmarks in the code for most visited places like Home, Office e
 #### Home Security System Automation
 I have also included code to detect if both of us are out and arm the home security system automatically. In case, if we have forgot to arm the security system. Also when anyone of us reach home and the security system was in armed state. The chatbot notifies us to disarm the security system.
 
-[Life 360 Handler code](https://github.com/arunn314/smartybot/blob/master/life360_handler.py)
-[Location Tracker code](https://github.com/arunn314/smartybot/blob/master/location_server.py)
+[Life 360 Handler code](https://github.com/arunn314/smartybot/blob/master/life360_handler.py)<br/>
+[Location Tracker code](https://github.com/arunn314/smartybot/blob/master/location_server.py)<br/>
