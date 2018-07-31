@@ -14,7 +14,7 @@ labels:
 summary: Voice interface for Raspberry Pi based chatbot.
 ---
 
-I came accross AIY Google Voicekit recently and thought would give a try. You can build your own intelligent speaker like Alexa, Google Home in $50.<br/>
+I came accross AIY Google Voicekit recently and thought would give a try. You can build your own intelligent speaker like Alexa, Google Home in $50.
 
 I rushed to Target to buy Voicekit, came home, followed the manual and connected the hardware as instructed. Boom, it worked like a charm in 1.5  hrs.
 
