@@ -20,10 +20,10 @@ I found Plaid API suitable to track my expenses. The development mode is free an
 Budget limits are set in the code for each category. Chatbot has a category map which you can find in my code can be used to map expenses to their correponding category. The list is not exhaustive and new categories can be added.<br/>
 
 Whenever, Plaid API returns new expenses, chatbot classifies the expense into one of the available categeories and checks if the total expenses in the current week exceed the budget allocated for a category. If it exceeds, chatbot sends me alert in FB messenger saying an expense exceed the budget.<br/>
-<img class="ui medium center floated rounded image" src="../images/expenses_alert.png"><br/>
+<img class="ui medium center rounded image" src="../images/expenses_alert.png"><br/>
 
 Every week on sunday, the chatbot sends me a cool visualization of what percent of expenses go into what category. The following is a sample pie chart of one week of my expenses. The bot also sends monthly expenses visualization on the last day of every month.<br/>
-<img class="ui medium right floated rounded image" src="../images/expenses_pie.png"><br/>
+<img class="ui medium right rounded image" src="../images/expenses_pie.png"><br/>
 
 I can also ask questions like "How much did I spend on food last 2 weeks ?". The bot will respond with a list of expenses under the food category in the last 2 weeks.<br/>
 [Plaid API code](https://github.com/arunn314/smartybot/blob/master/plaid_handler.py)<br/>
