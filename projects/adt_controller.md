@@ -7,7 +7,7 @@ permalink: projects/adt_controller
 
 date: 2017-08-07
 labels:
-  - Selenium
+  - selenium
   - Raspberry Pi
 
 summary: Raspberry Pi based chatbot to arm/disarm home security.
