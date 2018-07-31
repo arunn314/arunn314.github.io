@@ -39,6 +39,31 @@ byte ADCRead(byte ch)
 }
 ```
 
+```python
+
+    {
+      "company": "Machine Zone Inc., CA, USA",
+      "position": "Research Scientist",
+      "website": "",
+      "startDate": "2012-07-02",
+      "endDate": "2018-05-11",
+      "summary": "",
+      "highlights": [
+"Used    Faster RCNN    Model   in  Tensorflow  for object  detection   for extracting  attributes  in  Image   Assets. ",
+"Measuring   Install lift    from    TV  Marketing   Campaigns   for Game    of  War,    Mobile  Strike  games.  ",
+"TV  Ads Attribution model   to  attribute   installs    to  TV  spots   (Patent 4). ",
+"ML  based   Feature Recommendation  for Video   Ads to  boost   performance for Mobile  Strike. ",
+"Launch/manage   Facebook    Retargeting Campaigns   using   FBAds   API.    ",
+"ML  based   scoring model   for Google  Text    ads to  decide  whether to  pause   underperforming ads.    ",
+"Correct For Rewards -   Built   in-game mechanical  turk    to  make    users   correct errors  in  machine translations    (Patent 1). ",
+"Translation  Correction - Built NLP system to automatically validate whether two messages in two different languages (10+ languages)  mean    the same    with    high    accuracy    (Patent 2). ",
+"Emoji   Suggestion  -   Suggest emoji   in  real    time    as  the user    types   in  some    message (Patent 3). ",
+"Analyze Trending    Topics  in  game    chats   using   Scalding.   ",
+"Built   a   search  engine  for game    chat    messages    from    Kafka   using   ElasticSearch."
+      ]
+    },
+```
+
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
