@@ -24,7 +24,8 @@ The Pi contiuously runs the camera and reads frame by frame. It would be a simpl
 <p align="center"><img class="ui medium center rounded image" src="../images/person_alert.png"></p><br/>
 
 ### Background Subtraction & Contour Detection
-Based on the reference below, I built a simple motion detection algorithm based on background subtraction of adjacent frames and contour detection. If the contour size was larger than a certain size, an alert is triggered. This algorithm had several limitations. I started getting false positives when some tree branches infront of my front door moved, when a large truck moved in the opposite road and interestingly, when a car flashed lights during night time, it was detected as a very large contour.
+Based on the reference below, I built a simple motion detection algorithm based on background subtraction of adjacent frames and contour detection. If the contour size was larger than a certain size, an alert is triggered. This algorithm had several limitations. I started getting false positives when some tree branches infront of my front door moved, when a large truck moved in the opposite road and interestingly, when a car flashed lights during night time, it was detected as a very large contour.<br/>
+[code](https://github.com/arunn314/motion-detection-cam/blob/master/motion_detect.py)<br/>
 
 ### Deep Learning based Image classification
 In order to make the motion detection system more robust, I decided to use some deep learning to detect persons specifically. However, given the limited memory/processor of Raspberry Pi doing image classification on device would be too slow. So, I used Clarifai's image classification API to detect humans in the captured image. The API has 5k free requests per month. The API does a very good job and has reduced false positives almost to zero.<br/>
