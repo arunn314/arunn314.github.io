@@ -103,6 +103,36 @@
     }
   ],
   "work": [
+        {
+      "company": "Machine Zone Inc., CA, USA",
+      "position": "Research Scientist",
+      "website": "",
+      "startDate": "2015-11-12",
+      "endDate": "2018-05-11",
+      "summary": "",
+      "highlights": [
+"Deep Learning Object Detection: Used Faster RCNN Model in Tensorflow for object detection for extracting attributes in Image Assets. Leveraged ScaleAPI to annotate images for training custom object labels (Patent 7).",
+"Google TextAds Ranking: ML based scoring model for Google Text ads to decide whether to pause underperforming ads (Patent 6).",
+"Facebook Retargeting: Launch/manage Facebook Retargeting Campaigns using FBAds API.",
+"TV Ads attribution: TV Ads Attribution model to attribute installs to TV spots (Patent 4).",
+"Image/Video Feature Recommendation: ML based Feature Recommendation for Video Ads to boost performance for Mobile Strike (Patent 5)."
+      ]
+    },
+        {
+      "company": "Machine Zone Inc., CA, USA",
+      "position": "ML/NLP Engineer",
+      "website": "",
+      "startDate": "2012-07-02",
+      "endDate": "2015-11-11",
+      "summary": "",
+      "highlights": [
+"Treding Chat topics: Analyze Trending Topics in game chats using Scalding.",
+"Search Engine: Built a search engine for game chat messages from Kafka using ElasticSearch.",
+"Correct for Rewards: Built in-game mechanical turk to make users correct errors in machine translations (Patent 1).",
+"Emoji Suggestion: Suggest emoji in real time as the user types in some message (Patent 3).",
+"Translation Correction: Built NLP system to automatically validate whether two messages in two different languages (10+ languages) mean the same with high accuracy (Patent 2)."
+      ]
+    },
     {
       "company": "Machine Zone Inc., CA, USA",
       "position": "Research Scientist",
