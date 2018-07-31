@@ -31,7 +31,7 @@ In order to make the motion detection system more robust, I decided to use some 
 <p align="center"><img class="ui medium center rounded image" src="../images/clarifai.png"></p><br/>
 
 The system detects any motion based on the former algorithm and uploads to Google Drive. Another Raspberry Pi scans all images in the Google Drive and passes it to Clarifai API to detect humans. Once the response arrives, the images without humans are deleted. The following is a screenshot of images uploaded to my Google Drive when a Fedex delivery came to deliver a package.<br/>
-<p align="center"><img class="ui medium center rounded image" src="../images/fedex.png"></p><br/>
+<p align="center"><img class="ui large center rounded image" src="../images/fedex.png"></p><br/>
 
 
 ### References:<br/>
