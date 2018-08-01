@@ -200,14 +200,14 @@
     }
   ],
   "patents": [
-    {"title": "1. Systems and methods for multi-user multi-lingual communications (No. 20160140114)"},
-    {"title": "2. Systems and methods for determining translation accuracy in multi-user multi-lingual communications (No. 20160232156)"},
-    {"title": "3. Systems and methods for suggesting emoji (No. 20170185581)"},
-    {"title": "4. Systems and methods for determining install baseline for television advertising campaigns for mobile applications (Pending)
+    {"title": "Systems and methods for multi-user multi-lingual communications (No. 20160140114)"},
+    {"title": "Systems and methods for determining translation accuracy in multi-user multi-lingual communications (No. 20160232156)"},
+    {"title": "Systems and methods for suggesting emoji (No. 20170185581)"},
+    {"title": "Systems and methods for determining install baseline for television advertising campaigns for mobile applications (Pending)
 "},
-    {"title": "5. Systems and methods for recommending features for marketing (Pending)"},
-    {"title": "6. System and method for managing digital advertisements on mobile devices (Pending)"},
-    {"title": "7. System and method for creative optimization using object detection (Pending)"},
+    {"title": "Systems and methods for recommending features for marketing (Pending)"},
+    {"title": "System and method for managing digital advertisements on mobile devices (Pending)"},
+    {"title": "System and method for creative optimization using object detection (Pending)"},
   ]
 
 }
