@@ -7,17 +7,19 @@
   </div>
 
   <div class="fourteen wide column no-bottom">
-    <ol style="margin: 0px;">
-    {% for entry in site.data.bio.patents %}
+
 
     <div class="ui grid">
       <div class="sixteen wide column no-bottom">
+         <ol style="margin: 0px;">
+        {% for entry in site.data.bio.patents %}
         <li>{{ entry.title }}</li>
+        {% endfor %}
+        </ol>
+
       </div>
     </div>
 
-    {% endfor %}
-    </ol>
   </div>
 </div>
 {% endif %}
