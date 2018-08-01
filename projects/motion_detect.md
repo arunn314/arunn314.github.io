@@ -29,6 +29,7 @@ Based on the reference below, I built a simple motion detection algorithm based 
 
 ### Deep Learning based Image classification
 In order to make the motion detection system more robust, I decided to use some deep learning to detect persons specifically. However, given the limited memory/processor of Raspberry Pi doing image classification on device would be too slow. So, I used Clarifai's image classification API to detect humans in the captured image. The API has 5k free requests per month. The API does a very good job and has reduced false positives almost to zero.<br/>
+[code](https://github.com/arunn314/smartybot/blob/master/filter_images.py)<br/>
 <p align="center"><img class="ui large center rounded image" src="../images/clarifai.png"></p><br/>
 
 The system detects any motion based on the former algorithm and uploads to Google Drive. Another Raspberry Pi scans all images in the Google Drive and passes it to Clarifai API to detect humans. Once the response arrives, the images without humans are deleted. The following is a screenshot of images uploaded to my Google Drive when a Fedex delivery came to deliver a package.<br/>
