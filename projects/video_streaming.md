@@ -20,6 +20,7 @@ I created an endpoint video_feed for the Flask Webserver and video streaming wor
 
 I have placed Pi in my living room and the following image shows how it is displayed in the browser. This feature was super useful when I was out of town and wanted to see how my home looks at any moment.
 
+<p align='center'><img class="ui medium center rounded image" src="../images/streaming.png"></p><br/>
 [Camera code](https://github.com/arunn314/smartybot/blob/master/basecamera.py)<br/>
 [Camera code](https://github.com/arunn314/smartybot/blob/master/camera.py)<br/>
 
