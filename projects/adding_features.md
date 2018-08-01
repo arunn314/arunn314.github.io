@@ -49,6 +49,8 @@ I can also ask chatbot like "What is the fastest route to (destination) ?" and i
 Raspberry Pi based chatbot to ask Wikipedia about any person/thing.  
 To know about some person/thing quick, I can ask chatbot to get a short summary of it from Wikipedia. I use Wikipedia API to query about the entity I am interested in.
 To ask this I can say/type "Who is Steve Jobs ?", "What is Deep Learning ?"<br/>
+The image below shows a demo of question and answering from Wikipedia.
+<img class="ui medium center rounded image" src="../images/wiki_alert.png"><br/>
 [code](https://github.com/arunn314/smartybot/blob/master/wiki_handler.py)
 
 ### Daily Weather updates
