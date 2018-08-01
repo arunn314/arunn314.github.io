@@ -78,6 +78,7 @@ STOCK_SYMBOLS = {
     'google': 'GOOG',
     'facebook': 'FB',
     'snap': 'SNAP',
+    'netflix': 'NFLX',
     'amazon': 'AMZN',
     'microsoft': 'MSFT'
 }
